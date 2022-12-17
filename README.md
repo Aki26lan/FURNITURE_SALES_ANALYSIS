@@ -19,5 +19,6 @@ Analysis of sales data from a furniture store and customer segmentation using SQ
     
 **Impact and Applications**
 
-    •	By analyzing the data, we can leverage these insights to inform the strategic decisions of the furniture store. For example, we can better anticipate a greater need for inventory of certain types of furniture, allocate greater marketing funds to states with moderate or low average sales, and tailor digital marketing and discount offers based on the customer segmentation.
+  •	By analyzing the data, we can leverage these insights to inform the strategic decisions of the furniture store. 
+  For example, we can better anticipate a greater need for inventory of certain types of furniture, allocate greater marketing funds to states with moderate or low average sales, and tailor digital marketing and discount offers based on the customer segmentation.
 
